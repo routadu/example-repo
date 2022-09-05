@@ -1,0 +1,23 @@
+Name: Aditya
+Age: 19
+Roll No: 21BCS9089
+
+Name: Karan
+Age: 18
+Roll No: 21BCS5354
+
+Name: Kirtan
+Age: 18
+Roll No: 21BCS8762
+
+Name: Mohd Imroz
+Age: 19
+Roll No: 21BCS7607
+
+Name: Aditya Kumar Rout
+Age: 19
+Roll No: 21BCS9089
+
+Name: Karan Kumar
+Age: 18
+Roll No: 21BCS5354

@@ -1,0 +1,23 @@
+#include <iostream>
+#include <cmath>
+#include <cstdint>
+
+using namespace std;
+
+int main()
+{
+    int number;
+    int reverse = 0;
+    cin >> number;
+
+    while (number > 0)
+    {
+        int lastDigit = number % 10;
+        reverse = reverse * 10 + lastDigit;
+        number /= 10;
+    }
+
+    cout << reverse;
+
+    return 0;
+}
